@@ -1,8 +1,4 @@
-kKt
-
-booleansExercise3TaskKt
-"
-booleansExercise4FooKtTaskKt
+tTaskKt
 #
 breakAndContinueExercise1TaskKt
 #
@@ -824,6 +820,9 @@ K
 withnullAverageIncomeWithNullKt
 4
 withoutdefaultargumentsWithoutDefaultArgumentsKt
+"
+withoutsealedclasses
+UnSealedKt" *     aultArgumentsKt
 "
 withoutsealedclasses
 UnSealedKt" *     uncsKt
