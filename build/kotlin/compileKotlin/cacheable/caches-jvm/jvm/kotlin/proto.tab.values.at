@@ -1,4 +1,4 @@
-cise3TaskKt
+ooleansExercise3TaskKt
 "
 booleansExercise4FooKtTaskKt
 #
@@ -824,8 +824,7 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     
-UnSealedKt" *     withoutsealedclasses
+UnSealedKt" *     " *     withoutsealedclasses
 UnSealedKt" *     
 innerClassesExercise2TaskKt
 
