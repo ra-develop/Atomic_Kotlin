@@ -1,4 +1,22 @@
-TaskKt
+xercise3TaskKt
+8
+abstractclassesImplementationsKtPropertyAccessorKt
+ 
+abstractstateStateOfAClassKt
+
+
+atomictestAtomicTestKt
+*
+ baseClassInitializationExercise2TaskKt
+*
+ baseClassInitializationExercise3TaskKt
+:
+baseclassinitGreatApe3KtHouseKtOtherConstructorsKt
+
+
+bigintegerBigIntKt
+
+booleansExercise1TaskKt
 
 booleansExercise2TaskKt
 
@@ -828,20 +846,7 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *      *     
-innerClassesExercise2TaskKt
-
-innerClassesExercise3TaskKt
-h
-innerclassesCounterFactoryKtHotelKtInnerClassInheritanceKtLocalInnerClassesKtQualifiedThisKt
-\
-
-interfaces
-ComputerKt	HotnessKtPlayerInterfaceKtSAMConversionKtSAMImplementationKt
-
-interfacesExercise1TaskKt
-
-interfacesExercise2TaskKt
+UnSealedKt" *     skKt
 
 interfacesExercise3TaskKt
 §
