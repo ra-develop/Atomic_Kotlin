@@ -1,4 +1,4 @@
-xercise3TaskKt
+bstractClassesExercise3TaskKt
 8
 abstractclassesImplementationsKtPropertyAccessorKt
  
@@ -846,9 +846,7 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     skKt
-
-interfacesExercise3TaskKt
+UnSealedKt" *     cesExercise3TaskKt
 §
 interopAnnotateThrowsKtAnnotatedJavaKtBigFibonacciKtExtensionsToJavaClassKtKotlinWrapperKtPlatformTypesKtReadOnlyByDefaultKtTopLevelFunctionKtUtils
 )
