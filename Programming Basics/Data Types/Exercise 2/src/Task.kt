@@ -1,6 +1,8 @@
 // DataTypes/Task2.kt
 package dataTypesExercise2
 
+import operationsOnCollectionsExercise1.findOldest
+
 fun main() {
   val int: Int = 10
   val double: Double = 1.1
@@ -9,12 +11,12 @@ fun main() {
   val character: Char = 'a'
 
   // Can be combined:
-  TODO() // write some examples
+  val result = string + boolean
 
   println("The type that can be combined " +
     "with every other type using '+':")
-  println("???")
+  println("String")
 
   // Can't be combined:
-  TODO() // write some examples
+
 }
