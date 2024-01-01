@@ -1,3 +1,5 @@
+TaskKt
+
 booleansExercise2TaskKt
 
 booleansExercise3TaskKt
@@ -826,7 +828,7 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     nSealedKt" *     
+UnSealedKt" *      *     
 innerClassesExercise2TaskKt
 
 innerClassesExercise3TaskKt
