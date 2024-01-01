@@ -1,4 +1,10 @@
-tTaskKt
+TaskKt
+
+booleansExercise2TaskKt
+
+booleansExercise3TaskKt
+"
+booleansExercise4FooKtTaskKt
 #
 breakAndContinueExercise1TaskKt
 #
@@ -822,12 +828,7 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     aultArgumentsKt
-"
-withoutsealedclasses
-UnSealedKt" *     uncsKt
-
-innerClassesExercise1TaskKt
+UnSealedKt" *     TaskKt
 
 innerClassesExercise2TaskKt
 
