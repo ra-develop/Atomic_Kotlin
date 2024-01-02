@@ -1,8 +1,4 @@
-kKt
-
-booleansExercise2TaskKt
-
-booleansExercise3TaskKt
+cise3TaskKt
 "
 booleansExercise4FooKtTaskKt
 #
@@ -826,6 +822,9 @@ K
 withnullAverageIncomeWithNullKt
 4
 withoutdefaultargumentsWithoutDefaultArgumentsKt
+"
+withoutsealedclasses
+UnSealedKt" *     tsKt
 "
 withoutsealedclasses
 UnSealedKt" *     sKt
