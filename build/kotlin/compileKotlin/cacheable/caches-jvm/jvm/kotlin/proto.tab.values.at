@@ -1,9 +1,4 @@
-
-bigintegerBigIntKt
-
-booleansExercise1TaskKt
-
-booleansExercise2TaskKt
+booleansExercise2TaskKt
 
 booleansExercise3TaskKt
 "
@@ -829,6 +824,9 @@ K
 withnullAverageIncomeWithNullKt
 4
 withoutdefaultargumentsWithoutDefaultArgumentsKt
+"
+withoutsealedclasses
+UnSealedKt" *     rgumentsKt
 "
 withoutsealedclasses
 UnSealedKt" *     Kt" *     whenExpressionsExercise4TaskKt
