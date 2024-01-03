@@ -1,8 +1,4 @@
-nsExercise1TaskKt
-
-booleansExercise2TaskKt
-
-booleansExercise3TaskKt
+cise3TaskKt
 "
 booleansExercise4FooKtTaskKt
 #
@@ -828,7 +824,10 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     aledclasses
+UnSealedKt" *     tDefaultArgumentsKt
+"
+withoutsealedclasses
+UnSealedKt" *      aledclasses
 UnSealedKt" *     Kt" *     whenExpressionsExercise4TaskKt
 K
 whenexpressionsAnalyzeInputKt	BmiWhenKtGermanOrdinalsKtMixColorsKt
