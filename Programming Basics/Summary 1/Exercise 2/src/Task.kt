@@ -1,8 +1,16 @@
 // Summary1/Task2.kt
 package summaryIExercise2
 
+import extensionproperties.indices
+
 fun other(s: String): String {
-  TODO()
+  var result = ""
+  for (i in s.indices) {
+    if (i % 2 == 0) {
+      result += s[i]
+    }
+  }
+  return result
 }
 
 fun main() {
