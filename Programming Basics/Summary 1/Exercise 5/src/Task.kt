@@ -2,7 +2,10 @@
 package summaryIExercise5
 
 fun everyFifth(start: Int, end: Int) {
-  TODO()
+  val range = start .. end
+  for (i in range.withIndex()) {
+    if ((i.index + 1) % 5 == 0) println(i.value)
+  }
 }
 
 fun main() {
