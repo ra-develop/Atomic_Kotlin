@@ -2,7 +2,24 @@
 package summaryIExercise10
 
 fun showSnake(rows: Int, columns: Int) {
-  TODO()
+  val width = (rows * columns).toString().length
+  var currentDigit = 0
+  repeat(rows) {currentRow ->
+    if (currentRow % 2 == 0) {
+      repeat(columns) {
+        print(" %${width}d".format(currentDigit))
+        currentDigit ++
+      }
+    } else {
+      currentDigit += columns - 1
+      repeat (columns) {
+        print(" %${width}d".format(currentDigit - it))
+      }
+      currentDigit ++
+    }
+    println()
+  }
+
 }
 
 fun main() {
