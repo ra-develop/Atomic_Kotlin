@@ -8,7 +8,10 @@ fun isPalIgnoreCase(s: String): Boolean =
   isPalindrome(s.lowercase())
 
 fun isPalIgnoreSpecial(s: String): Boolean {
-  TODO()
+  val newString = s.filter { ch: Char ->
+    ch in 'a' .. 'z' || ch in 'A'.. 'Z'
+  }.lowercase()
+  return newString == newString.reversed()
 }
 
 fun main() {
