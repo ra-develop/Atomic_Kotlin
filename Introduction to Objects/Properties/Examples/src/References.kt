@@ -12,6 +12,8 @@ fun main() {
   kitchen1.table = "Square table"
   println("kitchen1: ${kitchen1.table}")
   println("kitchen2: ${kitchen2.table}")
+  println(kitchen1)
+  println(kitchen2)
 }
 /* Output:
 kitchen1: Round table
