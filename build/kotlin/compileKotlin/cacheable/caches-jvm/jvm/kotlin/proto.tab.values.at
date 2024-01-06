@@ -1,4 +1,13 @@
-tationsKtPropertyAccessorKt
+TwoArgLambdaKtTypesKtUnderscoreKtUnexpectedKtUnitReturnKtUnitReturnTypeKtUseALibraryKtUseBeanClassKt
+UseLinesKtUsingAtomicTestKtUsingLongsKtUsingTraceKtValsKtValueFromMapKtVarsKtVisibleArgsKtWhileControlKtWhileKtWhileLabeledKtWhileLoopKtWombatKtZeroArgumentsKtZipperKtZippingWithNextKt
+"
+abstractClassesExercise1TaskKt
+"
+abstractClassesExercise2TaskKt
+"
+abstractClassesExercise3TaskKt
+8
+abstractclassesImplementationsKtPropertyAccessorKt
  
 abstractstateStateOfAClassKt
 
@@ -844,25 +853,7 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     llKt
-4
-withoutdefaultargumentsWithoutDefaultArgumentsKt
-"
-withoutsealedclasses
-UnSealedKt" *     withdefaultargumentsWithDefaultArgumentsKt
-#
-withnullAverageIncomeWithNullKt
-4
-withoutdefaultargumentsWithoutDefaultArgumentsKt
-"
-withoutsealedclasses
-UnSealedKt" *     ise1TaskKt
-)
-introductionToGenericsExercise2TaskKt
-)
-introductionToGenericsExercise3TaskKt
-i
-introgenericsAnyInsteadKtGenericFunctionKtGenericHolderKtGenericListExtensionsKtRigidHolderKt
+UnSealedKt" *     sKtRigidHolderKt
 
 	iterationIterationKt
 
