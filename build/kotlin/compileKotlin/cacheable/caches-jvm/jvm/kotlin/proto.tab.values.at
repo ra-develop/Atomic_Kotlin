@@ -1,10 +1,4 @@
-t
-"
-abstractClassesExercise2TaskKt
-"
-abstractClassesExercise3TaskKt
-8
-abstractclassesImplementationsKtPropertyAccessorKt
+tationsKtPropertyAccessorKt
  
 abstractstateStateOfAClassKt
 
@@ -846,6 +840,11 @@ K
 withdefaultargumentsWithDefaultArgumentsKt
 #
 withnullAverageIncomeWithNullKt
+4
+withoutdefaultargumentsWithoutDefaultArgumentsKt
+"
+withoutsealedclasses
+UnSealedKt" *     llKt
 4
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
