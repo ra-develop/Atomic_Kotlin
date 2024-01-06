@@ -4,21 +4,26 @@ package propertiesExercise3
 class Robot {
   var x = 0
   var y = 0
+  private val maxSize = 100
 
   fun right(steps: Int) {
-    x += steps
+    x += steps % maxSize
+    if (x > maxSize) x -= maxSize
   }
 
   fun left(steps: Int) {
-    x -= steps
+    x -= steps % maxSize
+    if (x < 0) x += maxSize
   }
 
   fun down(steps: Int) {
-    y += steps
+    y += steps % maxSize
+    if (y > maxSize) y -= maxSize
   }
 
   fun up(steps: Int) {
-    y -= steps
+    y -= steps % maxSize
+    if (y < 0) y += maxSize
   }
 
   fun getLocation(): String = "($x, $y)"
