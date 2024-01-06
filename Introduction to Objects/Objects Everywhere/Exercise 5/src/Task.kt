@@ -6,4 +6,8 @@ fun main() {
 
   val s = "abc"
 
+  r.sum()
+
+  s.reversed()
+
 }
