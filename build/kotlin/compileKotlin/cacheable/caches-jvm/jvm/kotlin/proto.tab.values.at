@@ -1,4 +1,12 @@
-opertyAccessorKt
+ueFromMapKtVarsKtVisibleArgsKtWhileControlKtWhileKtWhileLabeledKtWhileLoopKtWombatKtZeroArgumentsKtZipperKtZippingWithNextKt
+"
+abstractClassesExercise1TaskKt
+"
+abstractClassesExercise2TaskKt
+"
+abstractClassesExercise3TaskKt
+8
+abstractclassesImplementationsKtPropertyAccessorKt
  
 abstractstateStateOfAClassKt
 
@@ -844,17 +852,7 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     withoutsealedclasses
-UnSealedKt" *     defaultargumentsWithDefaultArgumentsKt
-#
-withnullAverageIncomeWithNullKt
-4
-withoutdefaultargumentsWithoutDefaultArgumentsKt
-"
-withoutsealedclasses
-UnSealedKt" *     ReadOnlyByDefaultKtTopLevelFunctionKtUtils
-)
-introductionToGenericsExercise1TaskKt
+UnSealedKt" *     ise1TaskKt
 )
 introductionToGenericsExercise2TaskKt
 )
