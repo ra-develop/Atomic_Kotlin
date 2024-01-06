@@ -2,7 +2,7 @@
 
 class Scientist(val name: String) {
   override fun toString(): String {
-    return "Scientist('$name')"
+    return "Scientist('$name')@${super.toString().substringAfter('@')}"
   }
 }
 
