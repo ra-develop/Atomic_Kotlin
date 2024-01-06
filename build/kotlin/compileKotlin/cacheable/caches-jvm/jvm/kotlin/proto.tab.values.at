@@ -1,4 +1,6 @@
-ercise2TaskKt
+t
+"
+abstractClassesExercise2TaskKt
 "
 abstractClassesExercise3TaskKt
 8
@@ -848,9 +850,7 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     alsKtMixColorsKt
-.
-withdefaultargumentsWithDefaultArgumentsKt
+UnSealedKt" *     withdefaultargumentsWithDefaultArgumentsKt
 #
 withnullAverageIncomeWithNullKt
 4
