@@ -1,10 +1,4 @@
-AtomicTestKt
-*
- baseClassInitializationExercise2TaskKt
-*
- baseClassInitializationExercise3TaskKt
-:
-baseclassinitGreatApe3KtHouseKtOtherConstructorsKt
+sinitGreatApe3KtHouseKtOtherConstructorsKt
 
 bbbBbbKt
 
@@ -837,6 +831,11 @@ K
 withdefaultargumentsWithDefaultArgumentsKt
 #
 withnullAverageIncomeWithNullKt
+4
+withoutdefaultargumentsWithoutDefaultArgumentsKt
+"
+withoutsealedclasses
+UnSealedKt" *     ncomeWithNullKt
 4
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
