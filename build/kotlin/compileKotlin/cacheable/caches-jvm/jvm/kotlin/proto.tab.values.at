@@ -1,4 +1,12 @@
-tHouseKtOtherConstructorsKt
+AtomicTestKt
+*
+ baseClassInitializationExercise2TaskKt
+*
+ baseClassInitializationExercise3TaskKt
+:
+baseclassinitGreatApe3KtHouseKtOtherConstructorsKt
+
+bbbBbbKt
 
 
 bigintegerBigIntKt
@@ -833,12 +841,7 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     sExercise4TaskKt
-K
-whenexpressionsAnalyzeInputKt	BmiWhenKtGermanOrdinalsKtMixColorsKt
-.
-withdefaultargumentsWithDefaultArgumentsKt
-#
+UnSealedKt" *     #
 withnullAverageIncomeWithNullKt
 4
 withoutdefaultargumentsWithoutDefaultArgumentsKt
