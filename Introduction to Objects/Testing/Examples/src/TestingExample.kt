@@ -13,7 +13,7 @@ fun main() {
   v2 neq "Epistemology"
 
   // [Error] Epistemology != Ontology
-  // v2 eq "Epistemology"
+   v2 eq "Epistemology"
 }
 /* Output:
 11
