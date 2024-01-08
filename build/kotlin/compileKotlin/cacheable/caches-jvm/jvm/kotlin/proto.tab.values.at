@@ -1,6 +1,4 @@
-erBigIntKt
-
-booleansExercise1TaskKt
+TaskKt
 
 booleansExercise2TaskKt
 
@@ -830,6 +828,7 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
+UnSealedKt" *     sealedclasses
 UnSealedKt" *     faultArgumentsKt
 "
 withoutsealedclasses
