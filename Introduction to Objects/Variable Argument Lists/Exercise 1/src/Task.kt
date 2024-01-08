@@ -1,8 +1,10 @@
 // Varargs/Task1.kt
 package variableArgumentListsExercise1
 
-// TODO
+//fun fArgs(vararg args1: Int, vararg args2: Int) {
+//
+//}
 
 fun main() {
-  // TODO
+  println("Multiple vararg-parameters are prohibited")
 }
