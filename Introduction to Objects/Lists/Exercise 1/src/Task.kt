@@ -3,7 +3,10 @@ package listsExercise1
 import atomictest.eq
 
 fun findMax(list: IntList): Int {
-  TODO()
+  if (list.size() == 0) return 0
+  return list.maxOf {
+    it
+  }
 }
 
 fun main() {
