@@ -2,10 +2,12 @@
 package listsExercise2
 
 fun countOccurrences(list: IntList, number: Int): Int {
-  TODO()
+  return list.count {
+    it == number
+  }
 }
 
 fun main() {
   val list = IntList(listOf(1, 2, 3, 2))
-  println(countOccurrences(list, 2))  // 2
+  println(countOccurrences(list, 3))  // 2
 }
