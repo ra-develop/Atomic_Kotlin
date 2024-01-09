@@ -1,4 +1,26 @@
+se3TaskKt
+8
+abstractclassesImplementationsKtPropertyAccessorKt
+ 
+abstractstateStateOfAClassKt
+
 
+atomictestAtomicTestKt
+*
+ baseClassInitializationExercise2TaskKt
+*
+ baseClassInitializationExercise3TaskKt
+:
+baseclassinitGreatApe3KtHouseKtOtherConstructorsKt
+
+bbbBbbKt
+
+
+bigintegerBigIntKt
+
+booleansExercise1TaskKt
+
+booleansExercise2TaskKt
 
 booleansExercise3TaskKt
 "
@@ -826,24 +848,7 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     dclasses
-UnSealedKt" *     aultArgumentsKt
-"
-withoutsealedclasses
-UnSealedKt" *     withoutsealedclasses
-UnSealedKt" *           t
-.
-withdefaultargumentsWithDefaultArgumentsKt
-#
-withnullAverageIncomeWithNullKt
-4
-withoutdefaultargumentsWithoutDefaultArgumentsKt
-"
-withoutsealedclasses
-UnSealedKt" *     tsWithoutDefaultArgumentsKt
-"
-withoutsealedclasses
-UnSealedKt" *     enExpressionsExercise1TaskKt
+UnSealedKt" *     SealedKt" *     enExpressionsExercise1TaskKt
 "
 whenExpressionsExercise2TaskKt
 "
