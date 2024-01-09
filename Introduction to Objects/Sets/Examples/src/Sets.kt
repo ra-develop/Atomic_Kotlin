@@ -23,13 +23,20 @@ fun main() {
   intSet.union(setOf(3, 4, 5, 6)) eq
     setOf(1, 2, 3, 4, 5, 6, 9)
 
+  intSet union setOf(3, 4, 5, 6) eq
+          setOf(1, 2, 3, 4, 5, 6, 9)
+
   // Set intersection:
   intSet intersect setOf(0, 1, 2, 7, 8) eq
     setOf(1, 2)
+
+  intSet.intersect(setOf(0, 1, 2, 7, 8)) eq setOf(1,2)
 
   // Set difference:
   intSet subtract setOf(0, 1, 9, 10) eq
     setOf(2, 3, 4)
   intSet - setOf(0, 1, 9, 10) eq
     setOf(2, 3, 4)
+  intSet.subtract(setOf(0, 1, 9, 10)) eq
+          setOf(2, 3, 4)
 }
