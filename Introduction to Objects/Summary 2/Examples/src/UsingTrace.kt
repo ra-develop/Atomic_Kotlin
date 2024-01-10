@@ -6,8 +6,8 @@ fun main() {
   trace(47)
   trace("World!")
   trace eq """
-    Hello,
-    47
-    World!
+  Hello,
+  47
+  World!
   """
 }
