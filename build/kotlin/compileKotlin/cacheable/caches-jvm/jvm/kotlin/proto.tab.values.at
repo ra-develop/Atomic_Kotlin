@@ -1,4 +1,19 @@
-AtomicTestKt
+pperKtZippingWithNextKt
+
+aaaAaaKt
+"
+abstractClassesExercise1TaskKt
+"
+abstractClassesExercise2TaskKt
+"
+abstractClassesExercise3TaskKt
+8
+abstractclassesImplementationsKtPropertyAccessorKt
+ 
+abstractstateStateOfAClassKt
+
+
+atomictestAtomicTestKt
 *
  baseClassInitializationExercise2TaskKt
 *
@@ -841,19 +856,7 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *      rcise3TaskKt
-
-varAndValExercise4TaskKt
-
-varAndValExercise5TaskKt
-V
-varargsTwoFunctionsWithVarargsKtVarargLikeListKtVarargSumKtVariableArgListKt
-(
-variableArgumentListsExercise1TaskKt
-(
-variableArgumentListsExercise2TaskKt
-(
-variableArgumentListsExercise3TaskKt
+UnSealedKt" *     iableArgumentListsExercise3TaskKt
 (
 variableArgumentListsExercise4TaskKt
 (
