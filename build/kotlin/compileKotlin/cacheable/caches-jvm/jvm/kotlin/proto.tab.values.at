@@ -1,4 +1,4 @@
-AtomicTestKt
+AtomicTestKt
 *
  baseClassInitializationExercise2TaskKt
 *
@@ -841,7 +841,7 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     rcise3TaskKt
+UnSealedKt" *      rcise3TaskKt
 
 varAndValExercise4TaskKt
 
