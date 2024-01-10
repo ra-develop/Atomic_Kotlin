@@ -13,7 +13,7 @@ class LogChanges {
 fun main() {
   val lc = LogChanges()
   lc.n eq 0
-  lc.n = 2
-  lc.n eq 2
-  trace eq "0 becomes 2"
+  lc.n = 3
+  lc.n eq 3
+  trace eq "0 becomes 3"
 }
