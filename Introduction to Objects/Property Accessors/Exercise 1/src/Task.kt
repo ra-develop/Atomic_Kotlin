@@ -1,6 +1,8 @@
 // PropertyAccessors/Task1.kt
 package propertyAccessorsExercise1
 
+import atomictest.eq
+
 class Hamster(val name: String) {
   override fun toString(): String {
     return "Hamster('$name')"
@@ -17,7 +19,8 @@ class Cage(private val maxCapacity: Int) {
   val full: Boolean
     get() = hamsters.size == maxCapacity
 
-  /* add 'empty' property here */
+  val empty: Boolean
+    get() = hamsters.isEmpty()
 
   fun put(hamster: Hamster): Boolean =
     if (full)
@@ -33,7 +36,7 @@ class Cage(private val maxCapacity: Int) {
 
 fun main() {
   val cage = Cage(2)
-  // cage.empty eq true
+   cage.empty eq true
   cage.put(Hamster("Alice"))
-  // cage.empty eq false
+   cage.empty eq false
 }
