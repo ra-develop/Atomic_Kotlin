@@ -1,4 +1,15 @@
-Ape3KtHouseKtOtherConstructorsKt
+classesImplementationsKtPropertyAccessorKt
+ 
+abstractstateStateOfAClassKt
+
+
+atomictestAtomicTestKt
+*
+ baseClassInitializationExercise2TaskKt
+*
+ baseClassInitializationExercise3TaskKt
+:
+baseclassinitGreatApe3KtHouseKtOtherConstructorsKt
 
 bbbBbbKt
 
@@ -835,17 +846,7 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     
-withdefaultargumentsWithDefaultArgumentsKt
-#
-withnullAverageIncomeWithNullKt
-4
-withoutdefaultargumentsWithoutDefaultArgumentsKt
-"
-withoutsealedclasses
-UnSealedKt" *     omeWithNullKt
-4
-withoutdefaultargumentsWithoutDefaultArgumentsKt
+UnSealedKt" *     sWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
 UnSealedKt" *     sAnalyzeInputKt	BmiWhenKtGermanOrdinalsKtMixColorsKt
