@@ -22,7 +22,14 @@ class Cage(private val maxCapacity: Int) {
     }
 
   fun get(name: String): Hamster {
-    TODO()
+    var hamster = hamsters.find {
+      it.name == name
+    }
+    if (hamster != null) {
+      return hamster
+    } else {
+      throw NoSuchElementException("No hamster called $name")
+    }
   }
 }
 
