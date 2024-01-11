@@ -3,7 +3,7 @@ package namedAndDefaultArgumentsExercise3
 import atomictest.eq
 
 fun joinComments(s: String): String =
-  TODO()
+  s.trimMargin("// ").replace("\n", "; ")
 
 fun main() {
   val s = """
