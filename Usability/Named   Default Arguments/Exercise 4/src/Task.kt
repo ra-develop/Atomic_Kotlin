@@ -2,9 +2,9 @@
 package namedAndDefaultArgumentsExercise4
 import atomictest.eq
 
-fun foo(i: Int, s: String) = "(i = $i, s = $s)"
+fun foo(i: Int, s: String, d: Double = 1.0) = "(i = $i, s = $s)"
 
-fun bar(i: Int, s: String) = "(i = $i, s = $s)"
+fun bar(i: Int, s: String, D: Double = 1.0) = "(i = $i, s = $s)"
 
 fun main() {
   foo(i = 1, s = "abc") eq "(i = 1, s = abc)"
