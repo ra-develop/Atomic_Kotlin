@@ -13,7 +13,13 @@ enum class Result {
 }
 
 fun winner(first: Rochambeau, second: Rochambeau): Result {
-  TODO()
+  return when {
+    first == second -> DRAW
+    first == ROCK && second == SCISSORS -> FIRST_WINS
+    first == SCISSORS && second == PAPER -> FIRST_WINS
+    first == PAPER && second == ROCK -> FIRST_WINS
+    else -> SECOND_WINS
+  }
 }
 
 fun main() {
