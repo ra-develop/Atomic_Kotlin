@@ -5,4 +5,5 @@ import enumerations.Level.*   // [1]
 fun main() {
   Overflow eq "Overflow"
   High eq "High"
+  Medium eq "Medium"
 }
