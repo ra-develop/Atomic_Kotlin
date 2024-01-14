@@ -3,5 +3,5 @@
 fun main() {
   val s: String? = null
   // Doesn't compile:
-  // s.length        // [1]
+  s?.length        // [1]
 }
