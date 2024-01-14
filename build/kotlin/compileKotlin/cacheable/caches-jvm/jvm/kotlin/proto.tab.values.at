@@ -1,11 +1,4 @@
-InitializationExercise3TaskKt
-:
-baseclassinitGreatApe3KtHouseKtOtherConstructorsKt
-
-bbbBbbKt
-
-
-bigintegerBigIntKt
+IntKt
 
 booleansExercise1TaskKt
 
@@ -833,6 +826,11 @@ K
 withdefaultargumentsWithDefaultArgumentsKt
 #
 withnullAverageIncomeWithNullKt
+4
+withoutdefaultargumentsWithoutDefaultArgumentsKt
+"
+withoutsealedclasses
+UnSealedKt" *     lAverageIncomeWithNullKt
 4
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
