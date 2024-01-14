@@ -1,6 +1,4 @@
-IntKt
-
-booleansExercise1TaskKt
+TaskKt
 
 booleansExercise2TaskKt
 
@@ -830,7 +828,9 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     lAverageIncomeWithNullKt
+UnSealedKt" *     efaultArgumentsKt
+#
+withnullAverageIncomeWithNullKt
 4
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
