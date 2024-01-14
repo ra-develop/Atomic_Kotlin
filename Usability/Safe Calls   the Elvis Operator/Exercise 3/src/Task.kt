@@ -14,9 +14,15 @@ data class Address(
   val city: String? = null,
   val street: String? = null)
 
+fun unSpecifyingString(s: String?): String = s ?: "Unspecified"
 
-
-fun Client.fullInfo(): String = TODO()
+fun Client.fullInfo(): String = """
+    name: $name
+    email: ${unSpecifyingString(personalInfo?.email)}
+    country: ${unSpecifyingString(personalInfo?.address?.country)}
+    city: ${unSpecifyingString(personalInfo?.address?.city)}
+    street: ${unSpecifyingString(personalInfo?.address?.street)}
+    """.trimIndent()
 
 fun main() {
   val alice = Client("Alice",
