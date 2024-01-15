@@ -1,6 +1,4 @@
-ise1TaskKt
-
-booleansExercise2TaskKt
+TaskKt
 
 booleansExercise3TaskKt
 "
@@ -828,6 +826,7 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
+UnSealedKt" *     sealedclasses
 UnSealedKt" *     2TaskKt
 
 varAndValExercise3TaskKt
