@@ -2,7 +2,7 @@
 package introductionToGenericsExercise1
 import atomictest.eq
 
-fun <T> List<T>.secondOrNull(): T? = getOrNull(0)
+fun <T> List<T>.secondOrNull(): T? = getOrNull(1)
 
 fun <T> List<T>.penultimateOrNull(): T? = getOrNull(size - 2)
 
