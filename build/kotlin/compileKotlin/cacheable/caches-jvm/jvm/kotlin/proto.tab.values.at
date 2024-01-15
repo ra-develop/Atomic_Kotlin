@@ -1,6 +1,4 @@
-xercise3TaskKt
-8
-abstractclassesImplementationsKtPropertyAccessorKt
+ImplementationsKtPropertyAccessorKt
  
 abstractstateStateOfAClassKt
 
@@ -848,6 +846,7 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
+UnSealedKt" *     outsealedclasses
 UnSealedKt" *     rcise4TaskKt
 K
 whenexpressionsAnalyzeInputKt	BmiWhenKtGermanOrdinalsKtMixColorsKt
