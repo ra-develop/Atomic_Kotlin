@@ -1,4 +1,34 @@
-TaskKt
+WombatKtZeroArgumentsKtZipperKtZippingWithNextKt
+
+aaaAaaKt
+"
+abstractClassesExercise1TaskKt
+"
+abstractClassesExercise2TaskKt
+"
+abstractClassesExercise3TaskKt
+8
+abstractclassesImplementationsKtPropertyAccessorKt
+ 
+abstractstateStateOfAClassKt
+
+
+atomictestAtomicTestKt
+*
+ baseClassInitializationExercise2TaskKt
+*
+ baseClassInitializationExercise3TaskKt
+:
+baseclassinitGreatApe3KtHouseKtOtherConstructorsKt
+
+bbbBbbKt
+
+
+bigintegerBigIntKt
+
+booleansExercise1TaskKt
+
+booleansExercise2TaskKt
 
 booleansExercise3TaskKt
 "
@@ -826,30 +856,7 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     sealedclasses
-UnSealedKt" *     2TaskKt
-
-varAndValExercise3TaskKt
-
-varAndValExercise4TaskKt
-
-varAndValExercise5TaskKt
-V
-varargsTwoFunctionsWithVarargsKtVarargLikeListKtVarargSumKtVariableArgListKt
-(
-variableArgumentListsExercise1TaskKt
-(
-variableArgumentListsExercise2TaskKt
-(
-variableArgumentListsExercise3TaskKt
-(
-variableArgumentListsExercise4TaskKt
-(
-variableArgumentListsExercise5TaskKt
-S
-varianceBoxAssignmentKtCovariantListKtInBoxAssignmentKtOutBoxAssignmentKt
-"
-whenExpressionsExercise1TaskKt
+UnSealedKt" *     sExercise1TaskKt
 "
 whenExpressionsExercise2TaskKt
 "
