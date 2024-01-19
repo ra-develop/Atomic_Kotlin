@@ -1,13 +1,4 @@
-uctorsKt
-
-bbbBbbKt
-
-
-bigintegerBigIntKt
-
-booleansExercise1TaskKt
-
-booleansExercise2TaskKt
+oleansExercise2TaskKt
 
 booleansExercise3TaskKt
 "
@@ -833,6 +824,9 @@ K
 withnullAverageIncomeWithNullKt
 4
 withoutdefaultargumentsWithoutDefaultArgumentsKt
+"
+withoutsealedclasses
+UnSealedKt" *     targumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
 UnSealedKt" *     xAssignmentKtOutBoxAssignmentKt
