@@ -13,7 +13,10 @@ data class Student(
 }
 
 fun List<Student>.sortByGradeAndThenByName(): List<Student> = sortedWith(
-  TODO("compareByDescending(???).then(compareBy(???)))"))
+  compareByDescending(Student::grade)
+    .thenComparing(compareBy( Student::lastName)
+      .thenComparing(compareBy(Student::firstName)))
+)
 
 fun main() {
   val people = listOf(
