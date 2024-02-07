@@ -11,7 +11,7 @@ class Person(
 }
 
 fun friendSuggestions(person: Person): Set<Person> {
-  TODO()
+  return person.friends.flatMap { it.friends }.filter { it != person && it !in person.friends }.toSet()
 }
 
 fun main() {
