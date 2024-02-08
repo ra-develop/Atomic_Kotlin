@@ -1,9 +1,11 @@
 // BuildingMaps/Task3.kt
 package buildingMapsExercise3
 import atomictest.eq
+import buildingMapsExercise2.groupBy
 
 fun <T, R> List<T>.associateBy(keySelector: (T) -> R): Map<R, T> =
-  TODO("groupBy(???).???")
+   groupBy(keySelector).mapValues {(_, value) -> value.last()
+    }
 
 data class Person(val name: String, val age: Int)
 
