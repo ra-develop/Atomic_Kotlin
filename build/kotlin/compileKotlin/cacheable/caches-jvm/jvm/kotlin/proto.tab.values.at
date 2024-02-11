@@ -1,8 +1,4 @@
-xercise3TaskKt
-:
-baseclassinitGreatApe3KtHouseKtOtherConstructorsKt
-
-bbbBbbKt
+BbbKt
 
 
 bigintegerBigIntKt
@@ -835,6 +831,9 @@ K
 withnullAverageIncomeWithNullKt
 4
 withoutdefaultargumentsWithoutDefaultArgumentsKt
+"
+withoutsealedclasses
+UnSealedKt" *     faultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
 UnSealedKt" *     asses
